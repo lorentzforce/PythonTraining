@@ -6,10 +6,19 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		5075D9D3196D7E41008F3BFB /* file.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = file.py; sourceTree = "<group>"; };
+		5075D9D4196D7E41008F3BFB /* lapse.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = lapse.py; sourceTree = "<group>"; };
+		50AB790C196D7B650003E5F9 /* haustiere.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = haustiere.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		501E961E196958C6002A0E11 = {
 			isa = PBXGroup;
 			children = (
+				50AB790C196D7B650003E5F9 /* haustiere.py */,
+				5075D9D3196D7E41008F3BFB /* file.py */,
+				5075D9D4196D7E41008F3BFB /* lapse.py */,
 			);
 			sourceTree = "<group>";
 		};
@@ -165,6 +174,7 @@
 				501E9628196958C7002A0E11 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
