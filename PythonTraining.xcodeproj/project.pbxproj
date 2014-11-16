@@ -7,9 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		50389B8D19E0553600AE63BB /* Teatime.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Teatime.py; sourceTree = "<group>"; };
 		5075D9D3196D7E41008F3BFB /* file.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = file.py; sourceTree = "<group>"; };
 		5075D9D4196D7E41008F3BFB /* lapse.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = lapse.py; sourceTree = "<group>"; };
 		50AB790C196D7B650003E5F9 /* haustiere.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = haustiere.py; sourceTree = "<group>"; };
+		50FCD24D19DC8FE40066E3F6 /* 04_stepper.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = 04_stepper.py; path = "../../04_Tea_Time/TEATIME Touch/python code/04_stepper.py"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +21,8 @@
 				50AB790C196D7B650003E5F9 /* haustiere.py */,
 				5075D9D3196D7E41008F3BFB /* file.py */,
 				5075D9D4196D7E41008F3BFB /* lapse.py */,
+				50FCD24D19DC8FE40066E3F6 /* 04_stepper.py */,
+				50389B8D19E0553600AE63BB /* Teatime.py */,
 			);
 			sourceTree = "<group>";
 		};

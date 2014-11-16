@@ -43,6 +43,15 @@
       <PathRunnable
          FilePath = "/usr/bin/python">
       </PathRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "501E9623196958C6002A0E11"
+            BuildableName = "PythonTraining"
+            BlueprintName = "PythonTraining"
+            ReferencedContainer = "container:PythonTraining.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <CommandLineArguments>
          <CommandLineArgument
             argument = "file.py"
